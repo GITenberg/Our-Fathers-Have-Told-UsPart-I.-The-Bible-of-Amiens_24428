@@ -1,0 +1,32 @@
+_repo: Our-Fathers-Have-Told-UsPart-I.-The-Bible-of-Amiens_24428
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ruskin, John
+    alias: Ruskin, J. (John)
+    birthdate: 1819
+    deathdate: 1900
+    gutenberg_agent_id: '359'
+    url: http://www.gutenberg.org/2009/agents/359
+    wikipedia: http://en.wikipedia.org/wiki/John_Ruskin
+description: ''
+gutenberg_issued: '2008-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24428'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cathédrale d''Amiens'
+- !lcsh 'France -- History'
+- !lcc 'PR'
+- !lcc 'NA'
+title: 'Our Fathers Have Told Us
+
+  Part I. The Bible of Amiens'
+url: http://www.gutenberg.org/ebooks/24428
